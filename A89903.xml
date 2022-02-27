@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer of the States-General of the United Provinces, to the memorial of the extraordinary ambassadour of Sweden, relating to a peace</title>
+            <author>United Provinces of the Netherlands. Staten Generaal.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89903</idno>
+            <idno type="STC">Wing N474A</idno>
+            <idno type="STC">ESTC R231137</idno>
+            <idno type="EEBO-CITATION">99896671</idno>
+            <idno type="PROQUEST">99896671</idno>
+            <idno type="VID">132564</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89903)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132564)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2432:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer of the States-General of the United Provinces, to the memorial of the extraordinary ambassadour of Sweden, relating to a peace</title>
+                  <author>United Provinces of the Netherlands. Staten Generaal.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1674]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Below caption title: "Thus concluded in the meeting of the high and mighty Lords, States-General, in the Hague. Novemb. the 17th, 1674."</note>
+                  <note>Copy filmed at UMI microfilm Early English Books 1641-1700 reel 2432 is an uncut sheet.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Netherlands --  History --  1648-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:132564:1" rendition="simple:additions"/>
+            <head>An <hi>Anſwer</hi> of the <hi>States-General</hi> of the <hi>United Provinces,</hi> To the <hi>Memorial</hi> of the <hi>Extraordinary Ambaſſadour</hi> of <hi>Sweden,</hi> Relating to a PEACE.</head>
+            <head type="sub">Thus Concluded in the Meeting of the High and Mighty Lords, <hi>States-General,</hi> in the <hi>Hague. Novemb.</hi> the 17th, <hi>1674.</hi>
+            </head>
+            <p>THE <hi>States General</hi> of the <hi>
+                  <g ref="char:V">Ʋ</g>nited Provinces</hi> having ſeen and examined the <hi>Memorials</hi> of the Heer <hi>Ehren<g ref="char:EOLhyphen"/>ſteyn,</hi> Ambaſſadour of the King of <hi>Sweden</hi> to this State, which was delivered to them on the 28th of <hi>Auguſt,</hi> and the 24th of <hi>October</hi> laſt: Have found themſelves obliged to return him this Anſwer, That they had hopes, that the Anſwer which they returned to him the 25th of <hi>July</hi> laſt, was ſufficient to ſatisfie the whole World, that They with their Allies have always had, and yet have, a ſincere and good Inclination to a laſting Peace; And therefore it was not needful to uſe any more Arguments to perſwade them to that to which they are ſo much Inclined, and have done their ut<g ref="char:EOLhyphen"/>termoſt Endeavour. Yet their Lordſhips do find themſelves highly engaged to his Majeſty of <hi>Sweden,</hi> for his great Zeal and Endeavours to turn a Deſtructive War into a Peace; And that they will not be unmindful upon all occaſions to give real Demonſtrations of their Thankfulneſs to his Majeſty; And alſo upon all occaſions acknowledg the good Offices and En<g ref="char:EOLhyphen"/>deavours which the foreſaid Ambaſſadour hath done to the ſame End. But this <hi>State</hi> would willingly have been diſpenced from giving any more Arguments; the World being ſufficiently ſatisfied of their Peaceable Inclinations; eſpecially, conſidering what they had done in their former Anſwer: But conſidering the foreſaid Ambaſſadour, in his foreſaid <hi>Memorials,</hi> ſeems to ſuſpect, That the Arms of this <hi>State,</hi> with thoſe of their Allies,
+<pb n="2" facs="tcp:132564:2"/>do ſeem to ſet backward the Peace, and redound to the Pre<g ref="char:EOLhyphen"/>judice of ſome Princes and States, eſpecially in <hi>Germany;</hi> For which Reaſon their Lordſhips do find themſelves abſolutely obliged to Reiterate to the foreſaid Ambaſſadour, That it can<g ref="char:EOLhyphen"/>not be Imputed to Them, as being the Cauſe of the preſent War, and of the Calamities that proceed from thence; And all the World muſt know, That it did not a little trouble them, when his Majeſty of <hi>France</hi> was pleaſed to turn that Affection which his Majeſty and his renowned Predeceſſors have had for this <hi>State,</hi> into Anger and Indignation; And therefore they hope his Excellency will be pleaſed to conſi<g ref="char:EOLhyphen"/>der, That this <hi>State</hi> at that time gave their Allies and Friends, as alſo His Majeſty of <hi>Sweden,</hi> to underſtand the Fear they had of the War which His Majeſty of <hi>France</hi> would Declare a<g ref="char:EOLhyphen"/>gainſt them; For which reaſon they have done their uttermoſt by all their Friends and Allies to divert His Majeſty from this his Intention: Declaring alſo, That with good Conſcience they could ſay, They did not know of any Treaty which they had made with His Majeſty which they had broken; And yet they are willing to give His Majeſty all Contentment and Satis<g ref="char:EOLhyphen"/>faction for any Offence they had Committed. But they were ſo unhappy, that all their Endeavours which they had done by His Majeſty, and all their Preſentations by Meſſage, were with<g ref="char:EOLhyphen"/>out Succeſs; And on the contrary, His Majeſty hath done his Endeavours to draw the Friends of this <hi>State</hi> into a War againſt them: So that this <hi>State</hi> leaves it to all the World to judg to whom this War, and all the Effects of it, are to be Imputed; and whether any thing of this War may be Imputed to this <hi>State,</hi> who have done all that was poſſible to continue in Peace with His Majeſty. And when it pleaſed God to give ſuch Succeſs to the Arms of His Majeſty, that this <hi>State</hi> was almoſt ſwallowed up, this <hi>State</hi> was not wanting in their Endeavours to be re<g ref="char:EOLhyphen"/>leaſed of this War, and to come to a Peace: But His Majeſty was pleaſed to propoſe ſuch hard Conditions, that they were forced to reſolve to continue in War, notwithſtanding the Dan<g ref="char:EOLhyphen"/>gers which did attend them. And when His Majeſty of <hi>Sweden</hi> was pleaſed, from a Generous Mind, for the good of this <hi>State,</hi> to preſent his Mediation to His Majeſty for the extinguiſhing of
+<pb n="3" facs="tcp:132564:3"/>this War; His Majeſty was never pleaſed to explain himſelf in any Propoſitions for a Peace; or at leaſt thoſe that were pro<g ref="char:EOLhyphen"/>poſed were judged ſo Unreaſonable, that they were not to be accepted of. It is well known to all the World, That the Allies of this <hi>State</hi> did well foreſee, with Compaſſion, the Effects of this War. The King of <hi>Spain</hi> was the firſt, who not being engaged, that aſſiſted this <hi>State;</hi> and His Majeſty the Elector of <hi>Brandenburgh</hi> was the firſt that engaged with them as a Party; and His Majeſty the Emperor came in to the Treaty, to aſſiſt the foreſaid Elector; which was ſo ill re<g ref="char:EOLhyphen"/>ſented by His Majeſty of <hi>France,</hi> that the <hi>Spaniſh Nether<g ref="char:EOLhyphen"/>lands</hi> ſuffered as much by the <hi>French</hi> Army before as after the War was Declared between the two Kings. His Majeſty fell alſo ſo heavy upon the Dominions of the Elector of <hi>Bran<g ref="char:EOLhyphen"/>denburgh</hi> that he was forced to ſeek out for his own ſecurity. So that this <hi>State</hi> finding themſelves ſtripped of all Supplies of his Majeſty of <hi>Spain,</hi> and the Emperor, and <hi>Brandenburgh,</hi> and deſtitute of all Allies; So that it muſt be reckoned as a wonderful favour of God, that they being deſtitute of all Allies, and getting no Honourable Terms of Peace of His Majeſty of <hi>France,</hi> notwithſtanding a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> they ſhould enter into a nearer Alliance with the <hi>Empire,</hi> and <hi>Spain,</hi> and the Duke of <hi>Lorrain,</hi> there being no other way in the eye of Reaſon to help themſelves; So that the Reaſon of theſe Alliances muſt be retorted upon thoſe that were the Cauſe of them, and not upon the <hi>States.</hi> So that there is no Perſons of Honour, but will give Praiſe and Honour to this <hi>State,</hi> for their continuing faithful to what they have promi<g ref="char:EOLhyphen"/>ſed to their Allyes, who engaged themſelves with them, in the time of their Straits and Neceſſities; And the <hi>States</hi> are bound in faithfulneſs to declare, That their renowned Allyes have Declared as occaſion hath preſented it ſelf; and demonſtra<g ref="char:EOLhyphen"/>ted, that they are always inclined to a laſting and durable Peace; and that they had not the thoughts to ſeek the ſuppreſ<g ref="char:EOLhyphen"/>ſion of others, further than related to their own welfare and ſecurity. And that all their Allies, in all their Treaties, have inſerted as a ſpecial Ingredient, the Preſervation of the <hi>Weſt<g ref="char:EOLhyphen"/>phalia</hi> Treaty. So that it is no ſmall trouble to this <hi>State,</hi> that
+<pb n="4" facs="tcp:132564:4"/>the foreſaid Ambaſſadour ſeems to ſuſpect, that this <hi>State</hi> with their Allies were of Sentiment to break the <hi>Westphalia</hi> Trea<g ref="char:EOLhyphen"/>ty, or to infringe the leaſt part of it, and thereby give his Ma<g ref="char:EOLhyphen"/>jeſty of <hi>Sweden</hi> occaſion to ſtand up for the Preſervation there<g ref="char:EOLhyphen"/>of. For this <hi>State</hi> have formerly declared, and do now de<g ref="char:EOLhyphen"/>clare to the Ambaſſadour and Mediator, That they with their Allies were always ready, and now are, to give to His Ma<g ref="char:EOLhyphen"/>jeſty of <hi>Sweden</hi> ſuch Security, that they do not intend any thing to the leaſt prejudice of the <hi>Weſtphalia</hi> Treaty, as he himſelf ſhall deſire of them, when His Majeſty ſhall be pleaſed to give them the like Security, that ſo all Suſpition of this nature may be taken away from each other.</p>
+            <p>This <hi>State</hi> muſt needs acknowledg, That they cannot ap<g ref="char:EOLhyphen"/>prehend why this Ambaſſadour and Mediator ſhould pro<g ref="char:EOLhyphen"/>poſe his Opinion, as that this <hi>State</hi> do ſhew the leſs Inclina<g ref="char:EOLhyphen"/>tion to the Peace, by reaſon of the League which is lately made with the Elector of <hi>Brandenburgh,</hi> the Duke of <hi>Brunſwick</hi> and <hi>Luningburgh,</hi> they Imploying their Arms againſt his Ma<g ref="char:EOLhyphen"/>jeſty of <hi>France;</hi> as though thereby the Peace was made the more difficult and that thereby the Arms of theſe tended to the oppreſſions of the Standen of <hi>Germany,</hi> and that thereby the Treaty of <hi>Weſtphalia</hi> would be in danger, of which His Majeſty of <hi>Sweden</hi> ſtands as Guaranteur. When-as indeed the foreſaid Alliance tends to no other end, but to come to a good and laſting Peace, and the preſervation of the <hi>Weſt<g ref="char:EOLhyphen"/>phalia</hi> Treaty; it being the only thing the foreſaid Princes had in their eye in the making of this Alliance; ſo that the foreſaid Princes have the ſame thing in their eye as His Majeſty of <hi>Sweden</hi> hath ſo many times declared to have, having nothing in their aim but the Common Good; they pretending to no<g ref="char:EOLhyphen"/>thing elſe in the Treaty of Peace, but a good and laſting Peace, and the preſervation of the <hi>Weſtphalia</hi> Treaty; having taken Arms for no other end than to preſerve the Emperor as Head of the <hi>Empire,</hi> and the Decrees of the <hi>Empire,</hi> in thoſe good and honourable Intentions for which they were made, they themſelves being Members of that honourable Body; ſo that it would ſeem very ſtrange to this <hi>State,</hi> That the Ambaſſa<g ref="char:EOLhyphen"/>dour and Mediator ſhould expreſs himſelf ſo ſuſpiciouſly in
+<pb n="5" facs="tcp:132564:5"/>his foreſaid Memorials, with relation to this Alliance: If they were not fully ſatisfied of his upright and ſincere In<g ref="char:EOLhyphen"/>tentions for the forwarding of a Peace, and of thoſe good offices which he hath done to that end; and that thoſe for<g ref="char:EOLhyphen"/>mer expreſſions do only proceed from the fear that poſſeſſeth his mind, That the foreſaid Princes have only ingaged them<g ref="char:EOLhyphen"/>ſelves for particular ends; and that thereby the good work which he with ſo much trouble hath begun ſhould be retard<g ref="char:EOLhyphen"/>ed: But their Lordſhips now believing that the foreſaid Am<g ref="char:EOLhyphen"/>baſſador is now convinced, as indeed the truth is, That theſe Princes have only ingaged themſelves into theſe dangers, only to follow their Head and decrees of the Emperor, with<g ref="char:EOLhyphen"/>out reflection or relation to any particular Intereſt, but only to bring the Empire to a deſired Peace, and the differing parties to quiet again; do hope that the Ambaſſadour will think them worthy of praiſe and honour in this their good Intentions; and it is hoped His Majeſty will not ſtand in their way, but will, ſo much as belongs to him as a Me<g ref="char:EOLhyphen"/>diator, add as much as can be deſired to the ſame <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> This State <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <unclear>very</unclear> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Allies cannot ſubſiſt in the Empire, without ſome prejudice to the Standen: But yet this State and their Allyes have done and yet do their endeavours to prevent all prejudice that might come to the Empire thereby; and to bring their forces into the lands of the enemy; but they cannot believe that his Majeſty of <hi>Sweden</hi> will look upon it as unreaſonable, and as a breach of the <hi>Weſtphalia</hi> Treaty, That the Emperor and the Princes thereof do uſe their Arms to force the King of <hi>France</hi> to go with his Army out of the Empire, and leave them in quiet, from thoſe many oppreſſions which they have ſo often felt; for otherwiſe the Empire would be leſt as a prey to thoſe that will but attack it: And this State ſuppoſeth, that not only they, but the whole World muſt judg with them, That the zeal of thoſe that ſeek to maintain their own freedoms, notwith<g ref="char:EOLhyphen"/>ſtanding the dangers that attend them, are worthy of great praiſe, and that ſuch a defence is permitted to all: But on the contrary it is a plain infringing of the <hi>Westphalia</hi> and <hi>Akens</hi> Treaty without conſent, nay againſt the wills of the Standen
+<pb n="6" facs="tcp:132564:6"/>of the Emperor, and the King of <hi>Spain,</hi> to march with great Armies over the Lands and Juriſdictions of the Emperor, eſpe<g ref="char:EOLhyphen"/>cially thoſe that would not joyn with His Majeſty, or thoſe that ſeemed the moſt convenient for him to attain his ends, therewith uſing them as enemies, taking away, demoliſhing, or fortifying at his pleaſure ſuch Places as he thought good: And therefore with reaſon we may expect, that His Majeſty of <hi>Sweeden,</hi> as being Guarenteur of the <hi>Weſtphalia,</hi> and <hi>Akens</hi> Treaties, will ſhow his diſpleaſure againſt thoſe that were the Authors and di<g ref="char:EOLhyphen"/>ſturbers of the Reſt of <hi>Europe,</hi> by ſo needleſs, and ſo unrighteous a War as this is: Who having no regard to Trea<g ref="char:EOLhyphen"/>ties and Agreements, have brought the Empire, and their neigh<g ref="char:EOLhyphen"/>bouring Country into a flame; And that His Majeſty will not moleſt thoſe that ſtand up only in their own defence for the publick quiet, without having reſpect to any particular advan<g ref="char:EOLhyphen"/>tage of their own; in regard they have no other way left open for them. This State doth acknowledg with all thankfulneſs, and praiſe the goodneſs of the great God, that hath reſtored their <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd hath releaſed them from a great part of this War, and do with nothing leſs than that they were wholly releaſed, and their Allies brought a<g ref="char:EOLhyphen"/>gain to Reſt and Peace, in regard they by experience do know what it is to have the burden of a War: But this State do not know wherein they have been wanting in their endeavours, for the forwarding of the Peace; and are willing to be informed from the foreſaid Ambaſſa<g ref="char:EOLhyphen"/>dor, not in general terms which cannot be anſwered; but in <hi>ſpecie,</hi> and in particular, what they could have done more; but this State ſuppoſeth, that they ſhould ſtand guilty before God and all the World, and that they could never anſwer it, if they ſhould not be faithful to their Allies in what they ingaged, who were ſtirred up by God to aſſiſt them in their troubles; and this only is the cauſe why they perſiſt<g ref="char:EOLhyphen"/>ed, That the Duke of <hi>Lorrain</hi>'s Agents ought to have paſ<g ref="char:EOLhyphen"/>ports to appear at the place of Treaty, declaring that other<g ref="char:EOLhyphen"/>wiſe they could not proceed: And they ſuppoſe there is none that can ſay they did ill in this reſpect, for demanding that, to which they were bound to by Treaty, which is not
+<pb n="7" facs="tcp:132564:7"/>denied to any: This being a Houſe which is reckoned for one of the Illuſtrious in <hi>Europe;</hi> and one, as His Majeſty hath many times declared, that he was willing to reſtore to his Country again: So that the retardment ought not to be imputed to this State with any reaſon, nor to any of their Allies, who in this reſpect have demanded nothing but what was reaſonable in it ſelf: But it muſt be imputed to His Majeſty of <hi>France,</hi> who hath refuſed a thing that is ſo common and cuſtomary, and yet perſiſted therein; whereby he evidently declares, he hath no intention to come to a Treaty of Peace. And what relates to the releaſe of Duke <hi>William</hi> of <hi>Furſtenburgh,</hi> which the Ambaſſadour inſiſts upon, His Excellency may take notice, That this State, nor none of their Allies, excepting thoſe whoſe Subject he was, had any hand in his Impriſonment, neither had they any knowledg thereof: But it ſeemeth ſtrange that this State ſhould be ſolicited to Intercede for a Perſon that openly vented againſt the Ambaſſadours of this State, and declared as a thing in which he much gloried, That he had been Fifteen years buſie to bring our Country into that Labyrinth in which at preſent it is involved; and that according to his own ſaying, he had been the Author of ſo much miſchief as was now brought to paſs, with the ſhedding of ſo much in<g ref="char:EOLhyphen"/>nocent blood as hath been ſhed, not only in our Country, but alſo in <hi>Germany;</hi> So that this State, and as they believe all Chriſtian Princes muſt look upon him as a diſturber of the common good, and that the great God hath not only righte<g ref="char:EOLhyphen"/>ouſly let him feel a Priſon, but may ſuffer ſomething elſe to fall upon him as a puniſhment for his moſt wicked deeds; of which he himſelf hath made his boaſts. And therefore it will be very unacceptable to peaceable men, That a Treaty ſhould be broke off for not releaſing ſo great a diſturber: And though this State would have been glad to have heard that His Majeſty of <hi>France</hi> had pitched upon a place of Treaty, requiſite for all our renowned Allies, or at leaſt that His Majeſty of <hi>Sweden</hi> had pleaſed to have done it, in regard they would not be willing to have this good work come to nothing; therefore this Ambaſſadour and Mediator
+<pb n="8" facs="tcp:132564:8" rendition="simple:additions"/>may declare to His Majeſty of <hi>Sweden,</hi> That this State do leave it to His Majeſty to pitch upon what place he ſhall think beſt; whether it be <hi>Franckfort, Hamburgh,</hi> or <hi>Aken,</hi> where it was before, of which the foreſaid Ambaſſadour hath made ſo often mention; and that this State are well aſſured, That their renowned Allies will make no difficulty to ſend their Ambaſſadors to any of the foreſaid places; and deſire from our hearts, that any of the foreſaid places may be cho<g ref="char:EOLhyphen"/>ſen, the ſooner the better; and that God would be pleaſed to bleſs the good intentions of His Majeſty of <hi>Sweden,</hi> and the unwearied endeavours of this Ambaſſadour, that they may carry away the honour and the glory, That by their endeavours <hi>Europe</hi> may be freed from ſo great a War, and brought to quiet again; to which end this State will con<g ref="char:EOLhyphen"/>tribute what is poſſible for them to do.</p>
+            <closer>
+               <dateline>Thus concluded in the meeting of the High and Mighty Lords, States General, in the Hague. <date>
+                     <hi>November</hi> the 17th. 1674.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
